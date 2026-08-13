@@ -23,4 +23,5 @@ def somarNumeros():
     soma = 10+20
     return soma
 
-print()
+valor = somarNumeros()
+print(valor)
